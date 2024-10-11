@@ -123,7 +123,9 @@ ul {
     /* debug 
     border: 1px solid blue;*/
 }
-
+.hero-box2 img {
+    margin-bottom: -30px;
+}
 .hero-desc {
     text-align: center;
     padding-bottom: 30px;
